@@ -14,8 +14,7 @@ import Button from '@material-ui/core/Button';
 export default function Test(){
     return (
         <>
-        <PermanentDrawerLeft>Testando
-        </PermanentDrawerLeft>        
+        <PermanentDrawerLeft>Testando</PermanentDrawerLeft>        
         </>
     );
 }
